@@ -1,0 +1,12 @@
+{
+  "allowed_clients": [
+    {
+      "client_id": "client01",
+      "x25519_pub_hex": "cc3b8e6b51a8f09c3da7b344d4f5be9f0f16e9895cf037c19b2c8a96ef183d438"
+    },
+    {
+      "client_id": "client02",
+      "x25519_pub_hex": "a37dc72fe43b83257333a7f696d794dcc6730203bd4447dc56f4ade050947c15"
+    }
+  ]
+}

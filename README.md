@@ -1,5 +1,5 @@
 QS-TLS Stage105 — Quantum-Secure Transport with Realtime Encrypted Messaging
-© 2024 Motohiro Suzuki — Licensed under MIT License
+© 2025 Motohiro Suzuki — Licensed under MIT License
 
 このリポジトリは、量子安全通信プロトコル「QS-TLS」の Stage105（リアルタイム暗号チャット） を実装したものです。
 MIT ライセンスのため、商用利用・改変・再配布すべて自由ですが、著作権表記（© Motohiro Suzuki）は保持されます。
